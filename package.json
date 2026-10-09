@@ -1,0 +1,7 @@
+{
+  "name": "seoul-zero",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Offline Seoul cyberpunk AI management game",
+  "scripts": { "start": "node server.cjs", "test": "node --test --test-concurrency=1 tests/*.test.cjs" }
+}
