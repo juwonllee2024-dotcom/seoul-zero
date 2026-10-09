@@ -11,6 +11,8 @@
 
 A browser-based AI-company management game set in Seoul in 2087, with a 3D city, districts, contracts, research, server operations, and a 30-day management loop.
 
+[Play the public demo](https://seoul-zero-demo.juwonllee2026.workers.dev/). Public 3D rendering, accepting a contract, advancing a day and restoring browser saves were verified on 2026-10-09. This is a rule-based simulation, not a live AI company or payment service.
+
 [View JUWON's portfolio](https://jupt.pages.dev/) · [Browse the project collection](https://jupt.pages.dev/projects)
 
 **Scope:** This README presents the repository's documented intent and recorded visual evidence. It does not certify that every feature is complete, deployed, or currently working. Follow the original setup, safety, and license documentation below.
@@ -20,6 +22,8 @@ This repository is a selected original-source snapshot. The recorded source fing
 ## 한국어
 
 3D 도시·회사, 계약·성장·연쇄 사건·추천 행동 화면이 구현된 경영 게임.
+
+[공개 데모 체험하기](https://seoul-zero-demo.juwonllee2026.workers.dev/). 2026-10-09 공개 주소에서 3D 도시·계약·날짜 진행·저장 복원을 검증했습니다. 규칙 기반 시뮬레이션이며 실제 AI 회사 운영이나 결제가 아닙니다.
 
 [JUWON 포트폴리오 보기](https://jupt.pages.dev/) · [전체 프로젝트 보기](https://jupt.pages.dev/projects)
 
